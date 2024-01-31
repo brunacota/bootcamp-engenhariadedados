@@ -1,0 +1,15 @@
+# .gitignore
+
+# Virtual Environment
+venv/
+.venv/
+
+# Arquivos de compilação Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Arquivos de configuração
+*.pyc
+.DS_Store
+.env
